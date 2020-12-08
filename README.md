@@ -46,4 +46,10 @@ Interested?? Follow the steps and be the most romantic person.
 5.	git commit -m “Comment anything here”
 6.	git push heroku master
 
-Go to Heroku website and click on resources. From Dynos run clock_1.py and Enjoy. 
+#Go to Heroku website:
+1. Click on resources. From Dynos run clock_1.py.
+2. Settings > Reveal Config Vars. Add config vars- Key: TZ, Value: Asia/Dhaka (for Bangladesh, or change based on your country.) 
+
+#You can also check this tutorial - https://youtu.be/pQeFxdT3FGY
+
+Have fun, enjoy!!
