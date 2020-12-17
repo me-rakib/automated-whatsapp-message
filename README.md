@@ -3,7 +3,7 @@ Want to send automated Whatsapp message to your loved one continuously? You can 
 Interested?? Follow the steps and be the most romantic person. 
 
 #Process:
-1.	Log in or Create an account in Twilio - Communication APIs for SMS, Voice, Video and Authentication  
+1.	Log in or Create an account in https://www.twilio.com/ 
 2.	In Twilio go to: All Products and Services > Programmable Messaging > Try it Out > Try WhatsApp
 3.	 Send that shown message from whatsapp to the shown number. Click “Next: Send a One-Way Message”
 4.	Click on Appointment Reminders 
