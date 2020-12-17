@@ -14,8 +14,8 @@ Interested?? Follow the steps and be the most romantic person.
 #Open any IDE (Ex- VS Code):
 1.	Open terminal 
 2.	Clone this project https://github.com/rakib-nitk/automated-whatsapp-message.git
-3.	Install Twilio and Apscheduler (pip install twilio, pip install apscheduler)
-4.	Note down the version of Apscheduler and Twilio. 
+3.	Install Twilio (pip install twilio)
+4.	Note down the version of Twilio. 
 
 #Open “autosms.py” with VS Code Editor:
 1.	Add names 
@@ -26,12 +26,11 @@ Interested?? Follow the steps and be the most romantic person.
 5.	Fill the From and To phone number with the whatsapp number you copied before.
 
 #Open “clock_1.py”:
-1.	Change the minute as you like (Optional. default is 55 minutes)
+1.	Change the sleep time as you like. Time should be in second. (Optional. default is 50 minutes)
 
 #Open “requirements.txt”:
 1.	If installed version of Twilio is not 6.49.0 then change the version. 
-2.	 If installed version of APScheduler is not 3.6.3 then change the version.
-(you’ll get the version while installing Twilio and APScheduler)
+(you’ll get the version while installing Twilio)
 
 #Heroku:
 1.	 Log in or Create an account in Heroku
